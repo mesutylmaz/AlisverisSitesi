@@ -23,7 +23,7 @@ namespace AlisverisSitesiProjesi_AspNetCore5WebAppMVC.Areas.Customer.Controllers
         private readonly IEmailSender _emailSender;
         private readonly UserManager<IdentityUser> _userManager;
         
-
+        
 
         [BindProperty]
         public ShoppingCartVM ShoppingCartVM { get; set; }

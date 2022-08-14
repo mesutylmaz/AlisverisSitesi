@@ -1,0 +1,1 @@
+# DinamikAlisverisSitesi_AspNetCore5Mvc
