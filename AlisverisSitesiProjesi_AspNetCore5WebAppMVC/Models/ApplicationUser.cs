@@ -13,12 +13,14 @@ namespace AlisverisSitesiProjesi_AspNetCore5WebAppMVC.Models
         [Required]
         public string Name { get; set; }
 
+
         [Required]
         public string Surname { get; set; }
         public string Adres { get; set; }
         public string Sehir { get; set; }
         public string Semt { get; set; }
         public string PostaKodu { get; set; }
+
 
         [NotMapped]
         public string Role { get; set; }
