@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlisverisSitesiProjesi_AspNetCore5WebAppMVC", "AlisverisSitesiProjesi_AspNetCore5WebAppMVC\AlisverisSitesiProjesi_AspNetCore5WebAppMVC.csproj", "{AF444292-C963-412A-836F-547B96E27D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF444292-C963-412A-836F-547B96E27D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF444292-C963-412A-836F-547B96E27D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF444292-C963-412A-836F-547B96E27D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF444292-C963-412A-836F-547B96E27D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6E16EF-E6EE-487D-84A0-D1A6210A3EF6}
+	EndGlobalSection
+EndGlobal
